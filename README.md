@@ -1,13 +1,11 @@
-Wrapper for using the MapsIndoors SDK (https://www.mapspeople.com/developers "MapsIndoors SDK") in a browser.
+Wrapper for using the [MapsIndoors SDK](https://www.mapspeople.com/developers "MapsIndoors SDK") in a browser.
 
 This module provides an easy way to load the SDK and does not alter it in any way.
 
-MapsIndoors SDK for JavaScript
-
-Copyright (c) MapsPeople A/S, All rights reserved.
-
+## MapsIndoors SDK for JavaScript
+Copyright (c) MapsPeople A/S, All rights reserved.<br>
 MapsPeople and MapsIndoors are trademarks of MapsPeople A/S
 
-MapsPeople’s Platform Terms of Service
+MapsPeople’s Platform Terms of Service<br>
 
 https://www.mapspeople.com/terms/
